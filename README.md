@@ -68,8 +68,8 @@ This project is still a work in progress, and there are some limitations to its 
 
 ## Authors :black_nib:
 
-    Joseph Bamisaye
-    Tony Eseh
+    tony eseh
+    aisha nasir
 
 ## License :lock_with_ink_pen:
 
